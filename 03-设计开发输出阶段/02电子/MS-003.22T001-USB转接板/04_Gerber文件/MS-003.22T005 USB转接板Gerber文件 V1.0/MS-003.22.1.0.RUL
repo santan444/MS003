@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\秦铭-电子资料\Altium Designer\MS-003.22.1.0-USB转接板\MS-003.22.1.0.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

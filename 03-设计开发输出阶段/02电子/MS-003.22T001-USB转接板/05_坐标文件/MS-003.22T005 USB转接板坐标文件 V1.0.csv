@@ -1,0 +1,30 @@
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       05/01/24,,,,,,,
+Time:       14:03,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+C3,10uF/16V,TopLayer,CASE-A_3216,51.7753,30.7584,180,Capacitor-P
+C4,0.1uF,TopLayer,0603_C,33.0066,33.273,0,C0805
+C5,0.1uF,TopLayer,0603_C,51.3962,34.2382,180,C0805
+C6,22pF,TopLayer,0603_C,32.8796,26.7413,0,
+C7,22pF,TopLayer,0603_C,32.905,22.0208,0,
+C8,0.1uF,TopLayer,0603_C,26.3518,40.0548,0,
+C9,0.1uF,TopLayer,0603_C,33.0066,40.0548,0,
+C10,0.1uF,TopLayer,0603_C,19.3414,40.0548,180,
+C11,0.1uF,TopLayer,0603_C,26.1994,33.273,180,
+C12,0.1uF,TopLayer,0603_C,19.6208,33.2222,180,
+H1,Value,TopLayer,THC7R5D3R4-M3-PTH,5.1308,5.207,0,
+H2,Value,TopLayer,THC7R5D3R4-M3-PTH,66.2178,5.207,0,
+H3,Value,TopLayer,THC7R5D3R4-M3-PTH,5.1308,48.4632,0,
+H4,Value,TopLayer,THC7R5D3R4-M3-PTH,66.2178,48.4632,0,
+P1,U-USBAR04P-F002,TopLayer,USB_-_duplicate,58.8892,26.6259,90,
+P2,D-DMS009PM-F000,TopLayer,DSUB-TH_DMS009PM000XH00,7.1367,25.477,90,
+U2,CH340G,TopLayer,NSOIC-16,42.0225,22.2748,0,USB
+U3,USBLC6-2SC6,TopLayer,SOT23-6,51.4089,26.6436,270,
+U4,SP3232,TopLayer,NSOIC-16,21.7533,22.2748,0,
+Y1,12MHz,TopLayer,OSC-SMD_5.0¡Á3.2,32.6129,16.8646,180,Crystal Oscillator
